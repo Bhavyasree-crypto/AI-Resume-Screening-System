@@ -1,0 +1,10 @@
+streamlit UI
+pdf/docx upload
+extract resume text
+extract skills
+compare resume-job description
+calculate ATS score
+shortlist/review/reject
+rank candidates
+charts & analytics
+download results

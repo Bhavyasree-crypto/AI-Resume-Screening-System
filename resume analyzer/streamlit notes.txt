@@ -1,0 +1,25 @@
+streamlit is an open-source python framework that allows data scientists an developers to transform python scripts into interactive, shareable web applications in minutes.
+specifically designed for building data apps, machine learning dashboards and visualization without requiring knowledge of HTML,CSS or JavaScript.
+#key aspects of streamlit include:
+1)python-centric development :users write standard python code, which streamlit automatically renders into a web interface, eliminating the need for web development expertise.
+2)rapid prototyping: the framework supports hot reloading,allowing developers to see changes in the browser instantly as they save their scripts,which speed up the iterative design process.
+3)built in widgets and visualization: streamlit provides easy to use components for user input
+(sliders,buttons,text inputs) and seamless integration with popular data libraries like pandas,numpy,seaborn,matplotlib and plotly
+4)deployment options:apps can be easily shared via the streamlit community cloud,deployed on enterprise platforns like snowflake or containerized using docker for cloud providers like AWS or Azure.
+#streamlit is primarily used for creating interactive reports,demonstrating machine learning models and building internal tools for data exploration,bridging the gap between static analysis and user-friendly interfaces.
+
+
+
+
+
+
+streamlit UI
+pdf/docx upload
+extract resume text
+extract skills
+compare resume-job description
+calculate ATS score
+shortlist/review/reject
+rank candidates
+charts & analytics
+download results
